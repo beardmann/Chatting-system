@@ -69,3 +69,4 @@ C:\Users\Beardmann_shubh\Desktop\Chatting system\MyConsoleChatApp\bin\Debug\net9
 C:\Users\Beardmann_shubh\Desktop\Chatting system\MyConsoleChatApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Beardmann_shubh\Desktop\Chatting system\MyConsoleChatApp\obj\Debug\net9.0\MyConsoleChatApp.csproj.AssemblyReference.cache
 C:\Users\Beardmann_shubh\Desktop\Chatting system\MyConsoleChatApp\obj\Debug\net9.0\MyConsol.A5CA77BC.Up2Date
+C:\Users\Beardmann_shubh\Desktop\Chatting system\MyConsoleChatApp\obj\Debug\net9.0\MyConsoleChatApp.sourcelink.json
